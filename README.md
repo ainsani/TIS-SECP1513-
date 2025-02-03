@@ -2,8 +2,7 @@
 # Welcome to My e-Portfolio
 
 ## About Me
-Hello! I'm Nurul Ain binti Mohd Sani, a Computer Science student at Universiti Teknologi Malaysia.
-
+Hello! I'm Nurul Ain binti Mohd Sani, a Computer Science student at Universiti of Technology Malaysia. Throughout my studies here, I am determined to achieve excellent academic results. In addition to academics, I am committed to improving my soft skills, leadership abilities, and problem-solving skills to succeed in the tech industry."
 ## Education
 - University of Technology Malaysia (UTM) – Bachelor of Computer Science (Computer Networks & Security)
 - Expected Graduation: 2028
