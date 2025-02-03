@@ -11,3 +11,13 @@ Hello! I'm Nurul Ain binti Mohd Sani, a Computer Science student at Universiti o
 - **Programming Languages**: C++, Java
 - **Tools**: GitHub, VS Code, BlueJ, Embarcadero Dev-C++
 - **Soft Skills**: Problem-solving, Communication, Teamwork
+
+## Courses
+- Discrete Structure
+- Digital Logic
+- Programming Technique
+- Technology & Information System
+- Integrity & Anti-Corruption Course
+
+  ## Project
+  - Portfolio Website (
